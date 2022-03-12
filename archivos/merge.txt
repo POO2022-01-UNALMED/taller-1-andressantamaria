@@ -1,3 +1,10 @@
 GONZALO ANDRES SANTAMARIA CHILAMAK
 40
 ASPIRO CONOCER LOS CONCEPTOS DE POO A PROFUNDIDAD Y MEJORAR MIS CONOCIMIENTOS EN PY Y JAVA
+
+Ahora es posible hacer push porque la carpeta creada ya no está vacía.
+
+¿Por qué es importante tener cuidado con modificar dos archivos al mismo tiempo?
+
+Porque se puede perder el trabajo de una de las dos partes, es decir el trabajo completo 
+de horas, días o semanas. 
