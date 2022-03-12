@@ -1,0 +1,2 @@
+Como la carpeta estaba vacía Git no registra ningún cambio,
+por lo tanto el push el repositorio remoto marcaba error. 
